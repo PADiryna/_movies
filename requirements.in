@@ -1,0 +1,8 @@
+flask
+requests
+
+ipython
+jupyter 
+
+black
+flake8  
